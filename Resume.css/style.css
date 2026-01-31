@@ -5,5 +5,21 @@
     text-align: center;
 }
 .h2{
-    background-color: rgb(181, 208, 232);
+    background-color: rgb(181, 217, 232);
+}
+.h3{
+    background-color: rgb(181, 229, 232);
+}
+.h4{
+    background-color: rgb(181, 228, 232);
+}
+.h5{
+    background-color: rgb(181, 227, 232);
+}
+.h6{
+    background-color: rgb(181, 232, 232);
+}
+
+.sty{
+    font-style: italic;
 }
